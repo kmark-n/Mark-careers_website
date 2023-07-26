@@ -15,7 +15,8 @@ JOBS = [
   },
   {
     'id':3,
-    'title':'Front-end developer'
+    'title':'Front-end developer',
+    'location':'Mumbai, India'
   },
   {
     'id':4,
